@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
 import "swiper/css";
 import "./Recidencies.css";
 import data from "../../utils/slider.json";
-import { sliderSettings } from "../../utils/Common";
+import { sliderSettings } from "../../utils/common";
 const Recidencies = () => {
   return (
     <section className="r-wrapper">
